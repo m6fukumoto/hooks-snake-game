@@ -1,3 +1,12 @@
+# Snake Game
+
+## URL
+https://hooks-snake-game.vercel.app/
+
+## Description
+A nostalgic arcade game 'Snake Game' was created using React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
